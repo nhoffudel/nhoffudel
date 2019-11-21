@@ -3,7 +3,7 @@ To see my portfolio, go to nhoffudel.github.io!
 <p>NICHOLAS HOFFMAN</p>
 <p>www.linkedin.com/in/nicholas-a-hoffman</p>
 <p>nhoffudel.github.io</p>
-<p>nhoffudel.bitbucket.com</p>
+<p>bitbucket.org/nhoffudel</p>
 <p>EDUCATION</p>
 <p>BACHELOR OF COMPUTER SCIENCE</p>
 <p>University of Delaware</p>
