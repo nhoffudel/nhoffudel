@@ -1,8 +1,8 @@
-To see my portfolio, go to nhoffudel.github.io!
+To see my portfolio, go to https://nhoffudel.github.io/nhoffudel/!
 
 <p>NICHOLAS HOFFMAN</p>
 <p>www.linkedin.com/in/nicholas-a-hoffman</p>
-<p>nhoffudel.github.io</p>
+<p>nhoffudel.github.io/nhoffudel</p>
 <p>bitbucket.org/nhoffudel</p>
 <p>EDUCATION</p>
 <p>BACHELOR OF COMPUTER SCIENCE</p>
